@@ -1,4 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Giriş](README.md)
+* [Kurulum](kurulum.md)
+* [QML Konsepti](qml-konsepti.md)
+* [Ağaç Yapısı ve Davranışları](agac-yapisi-ve-davranislari.md)
 
