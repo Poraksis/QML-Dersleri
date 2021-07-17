@@ -1,2 +1,0 @@
-# Ağaç Yapısı ve Davranışları
-
