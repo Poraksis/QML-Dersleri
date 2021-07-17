@@ -2,7 +2,7 @@
 
 Referans İngilizce Kaynak
 
-{% page-ref page="python-qml-baglantisi.md" %}
+{% embed url="https://wiki.qt.io/Qt\_for\_Python/Connecting\_QML\_Signals" %}
 
 
 
